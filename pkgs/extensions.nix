@@ -208,7 +208,6 @@ in
   // mkExtAlias "playlistIcons.js" playlistIcons
   // mkExtAlias "powerBar.js" powerBar
   // mkExtAlias "groupSession.js" groupSession
-  // mkExtAlias "brokenAdblock.js" brokenAdblock # this is old but you can still use it if you need
   // appendJS groupSession
   // appendJS powerBar
   // appendJS seekSong
