@@ -5,10 +5,6 @@
 }:
 with source; let
   # EXTENSIONS ----------------------------------------------------------------
-  brokenAdblock = {
-    src = spotifyNoPremiumSrc;
-    filename = "adblock.js";
-  };
 
   savePlaylists = {
     src = "${dakshExtensions}/Extensions";
