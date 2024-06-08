@@ -101,4 +101,7 @@ in {
     // mkOfficialTheme "Sleek"
     // mkOfficialTheme "Nightlight"
     // mkOfficialTheme "Matte";
+  inherit
+   Orchis
+   ;
 }
