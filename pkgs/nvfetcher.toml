@@ -10,51 +10,6 @@ fetch.git = "https://github.com/spicetify/spicetify-themes"
 src.git = "https://github.com/spicetify/spicetify-cli"
 fetch.git = "https://github.com/spicetify/spicetify-cli"
 
-[catppuccinSrc]
-src.git = "https://github.com/catppuccin/spicetify"
-fetch.git = "https://github.com/catppuccin/spicetify"
-
-[spotifyNoPremiumSrc]
-src.git = "https://github.com/Daksh777/SpotifyNoPremium"
-fetch.git = "https://github.com/Daksh777/SpotifyNoPremium"
-
-[comfySrc]
-src.git = "https://github.com/Comfy-Themes/Spicetify"
-fetch.git = "https://github.com/Comfy-Themes/Spicetify"
-
-[fluentSrc]
-src.git = "https://github.com/williamckha/spicetify-fluent"
-fetch.git = "https://github.com/williamckha/spicetify-fluent"
-
-[defaultDynamicSrc]
-src.git = "https://github.com/JulienMaille/spicetify-dynamic-theme"
-fetch.git = "https://github.com/JulienMaille/spicetify-dynamic-theme"
-
-[retroBlurSrc]
-src.git = "https://github.com/Motschen/Retroblur"
-fetch.git= "https://github.com/Motschen/Retroblur"
-
-[omniSrc]
-src.git = "https://github.com/getomni/spicetify"
-fetch.git = "https://github.com/getomni/spicetify"
-
-[bloomSrc]
-src.git = "https://github.com/nimsandu/spicetify-bloom"
-fetch.git = "https://github.com/nimsandu/spicetify-bloom"
-
-[orchisSrc]
-src.git = "https://github.com/canbeardig/Spicetify-Orchis-Colours-v2"
-fetch.git = "https://github.com/canbeardig/Spicetify-Orchis-Colours-v2"
-
-[draculaSrc]
-src.git = "https://github.com/Darkempire78/Dracula-Spicetify"
-fetch.git = "https://github.com/Darkempire78/Dracula-Spicetify"
-
-[nordSrc]
-src.git = "https://github.com/Tetrax-10/Nord-Spotify"
-src.branch = "dist"
-fetch.git = "https://github.com/Tetrax-10/Nord-Spotify"
-
 [dakshExtensions]
 src.git = "https://github.com/daksh2k/Spicetify-stuff"
 fetch.git = "https://github.com/daksh2k/Spicetify-stuff"
@@ -82,10 +37,6 @@ fetch.git = "https://github.com/amanharwara/spicetify-autoVolume"
 [customAppsExtensionsSrc]
 src.git = "https://github.com/3raxton/spicetify-custom-apps-and-extensions"
 fetch.git = "https://github.com/3raxton/spicetify-custom-apps-and-extensions"
-
-[spotifyCanvasSrc]
-src.git = "https://github.com/itsmeow/Spicetify-Canvas"
-fetch.git = "https://github.com/itsmeow/Spicetify-Canvas"
 
 [charlieS1103Src]
 src.git = "https://github.com/CharlieS1103/spicetify-extensions"
