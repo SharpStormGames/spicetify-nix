@@ -72,6 +72,15 @@ in {
         src = officialThemes;
         requiredExtensions = ["fullAppDisplay.js" turntableExt];
       };
+      catppuccin = {
+        name = "catppuccin";
+        src = catppuccinSrc;
+        appendName = true;
+        injectCss = true;
+        replaceColors = true;
+        overwriteAssets = true;
+        sidebarConfig = false;
+      };
     }
     // mkOfficialTheme "Ziro"
     // mkOfficialTheme "Sleek"

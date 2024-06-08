@@ -10,6 +10,10 @@ fetch.git = "https://github.com/spicetify/spicetify-themes"
 src.git = "https://github.com/spicetify/spicetify-cli"
 fetch.git = "https://github.com/spicetify/spicetify-cli"
 
+[catppuccinSrc]
+src.git = "https://github.com/catppuccin/spicetify"
+fetch.git = "https://github.com/catppuccin/spicetify"
+
 [dakshExtensions]
 src.git = "https://github.com/daksh2k/Spicetify-stuff"
 fetch.git = "https://github.com/daksh2k/Spicetify-stuff"
