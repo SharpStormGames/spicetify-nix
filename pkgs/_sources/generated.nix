@@ -196,6 +196,19 @@
     };
     date = "2024-05-17";
   };
+  orchisSrc = {
+    pname = "orchisSrc";
+    version = "5bf3fcf0696514dcf3e95f4ae3fd00261ccc5dcc";
+    src = fetchgit {
+      url = "https://github.com/canbeardig/Spicetify-Orchis-Colours-v2";
+      rev = "5bf3fcf0696514dcf3e95f4ae3fd00261ccc5dcc";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "sha256-9cU2Wlg5W57JpBfzIOXvpRYI8Q3CsH+UsdjQseTr9bs=";
+    };
+    date = "2022-05-20";
+  };
   playlistIconsSrc = {
     pname = "playlistIconsSrc";
     version = "7a4bcbf1fc6b37ac37e16cacb9c9bcd0fe99636e";
