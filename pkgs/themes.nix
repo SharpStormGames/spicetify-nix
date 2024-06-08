@@ -5,6 +5,15 @@
 }:
 with source; let
   # THEMES --------------------------------------------------------------------
+ Orchis = {
+    name = "DarkGreen";
+    src = orchisSrc;
+    appendName = true;
+    injectCss = true;
+    replaceColors = true;
+    overwriteAssets = false;
+    sidebarConfig = false;
+  };
 in {
   official = let
     dribbblishExt = {
