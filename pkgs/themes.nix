@@ -27,6 +27,9 @@ in {
         sidebarConfig = false;
       };
     };
+  in
+    {
+    };
   inherit
    Orchis
    ;
