@@ -1,23 +1,4 @@
 {
-    "charlieS1103Src": {
-        "cargoLocks": null,
-        "date": "2024-05-13",
-        "extract": null,
-        "name": "charlieS1103Src",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "ab8fe9ccabc86477bc55a561fc532a0fa416d58c",
-            "sha256": "sha256-14Q1hHowE0w9ynpjlM6rM079Hqu1WVy3dzarwCZSXHE=",
-            "type": "git",
-            "url": "https://github.com/CharlieS1103/spicetify-extensions"
-        },
-        "version": "ab8fe9ccabc86477bc55a561fc532a0fa416d58c"
-    },
     "customAppsExtensionsSrc": {
         "cargoLocks": null,
         "date": "2022-05-02",
@@ -37,11 +18,11 @@
         },
         "version": "0f5e79fe43abf57f714d7d00bd288870d5b6f718"
     },
-    "dakshExtensions": {
+    "dakshExtensionsSrc": {
         "cargoLocks": null,
         "date": "2024-06-05",
         "extract": null,
-        "name": "dakshExtensions",
+        "name": "dakshExtensionsSrc",
         "passthru": null,
         "pinned": false,
         "src": {
@@ -113,63 +94,6 @@
         },
         "version": "f032dde7cce9d441795d9e2f728531684e97e3fa"
     },
-    "localFilesSrc": {
-        "cargoLocks": null,
-        "date": "2022-04-12",
-        "extract": null,
-        "name": "localFilesSrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "1bfd2fc80385b21ed6dd207b00a371065e53042e",
-            "sha256": "sha256-neKR2WaZ1K10dZZ0nAKJJEHNS56o8vCpYpi+ZJYJ/gU=",
-            "type": "git",
-            "url": "https://github.com/hroland/spicetify-show-local-files"
-        },
-        "version": "1bfd2fc80385b21ed6dd207b00a371065e53042e"
-    },
-    "marketplaceSrc": {
-        "cargoLocks": null,
-        "date": "2024-06-04",
-        "extract": null,
-        "name": "marketplaceSrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "4d595134063241d17b1eaaa8ec3919205a8e431a",
-            "sha256": "sha256-Nh+BICszb6GLSdVhUzOspB+vZ73v8ClupPtJq3c5qfc=",
-            "type": "git",
-            "url": "https://github.com/spicetify/spicetify-marketplace"
-        },
-        "version": "4d595134063241d17b1eaaa8ec3919205a8e431a"
-    },
-    "nameThatTuneSrc": {
-        "cargoLocks": null,
-        "date": "2024-06-01",
-        "extract": null,
-        "name": "nameThatTuneSrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "14a1f8ad1722781379a6dd0f3f29336006ca97e6",
-            "sha256": "sha256-B4ZESPqj0/1BiY3uUvY0yCIjjx1yF4eOz6Dsxgr0HQ8=",
-            "type": "git",
-            "url": "https://github.com/theRealPadster/name-that-tune"
-        },
-        "version": "14a1f8ad1722781379a6dd0f3f29336006ca97e6"
-    },
     "officialSrc": {
         "cargoLocks": null,
         "date": "2024-06-08",
@@ -207,6 +131,25 @@
             "url": "https://github.com/spicetify/spicetify-themes"
         },
         "version": "dfdd89ad84d5c68915c65e4a83580047349c49b4"
+    },
+    "rxriSrc": {
+        "cargoLocks": null,
+        "date": "2024-06-07",
+        "extract": null,
+        "name": "rxriSrc",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "5f369b36b5acdf4c62f7a10bad53659b6f2ab6c6",
+            "sha256": "sha256-RUxlWXnqxg7NVL6nfPAT4TrQspEwGVPJNMoKPHJPsAw=",
+            "type": "git",
+            "url": "https://github.com/rxri/spicetify-extensions"
+        },
+        "version": "5f369b36b5acdf4c62f7a10bad53659b6f2ab6c6"
     },
     "spotifywmSrc": {
         "cargoLocks": null,
