@@ -22,21 +22,9 @@ fetch.git = "https://github.com/daksh2k/Spicetify-stuff"
 src.git = "https://github.com/theRealPadster/spicetify-hide-podcasts"
 fetch.git = "https://github.com/theRealPadster/spicetify-hide-podcasts"
 
-[historySrc]
-src.git = "https://github.com/einzigartigerName/spicetify-history"
-fetch.git = "https://github.com/einzigartigerName/spicetify-history"
-
-[lastfmSrc]
-src.git = "https://github.com/LucasBares/spicetify-last-fm"
-fetch.git = "https://github.com/LucasBares/spicetify-last-fm"
-
 [localFilesSrc]
 src.git = "https://github.com/hroland/spicetify-show-local-files"
 fetch.git = "https://github.com/hroland/spicetify-show-local-files"
-
-[autoVolumeSrc]
-src.git = "https://github.com/amanharwara/spicetify-autoVolume"
-fetch.git = "https://github.com/amanharwara/spicetify-autoVolume"
 
 [customAppsExtensionsSrc]
 src.git = "https://github.com/3raxton/spicetify-custom-apps-and-extensions"
@@ -49,28 +37,6 @@ fetch.git = "https://github.com/CharlieS1103/spicetify-extensions"
 [huhExtensionsSrc]
 src.git = "https://github.com/huhridge/huh-spicetify-extensions"
 fetch.git = "https://github.com/huhridge/huh-spicetify-extensions"
-
-[playlistIconsSrc]
-src.git = "https://github.com/jeroentvb/spicetify-playlist-icons"
-src.branch = "dist"
-fetch.git = "https://github.com/jeroentvb/spicetify-playlist-icons"
-
-[tetraxSrc]
-src.git = "https://github.com/Tetrax-10/Spicetify-Extensions"
-fetch.git = "https://github.com/Tetrax-10/Spicetify-Extensions"
-
-[powerBarSrc]
-src.git = "https://github.com/jeroentvb/spicetify-power-bar"
-src.branch = "dist"
-fetch.git = "https://github.com/jeroentvb/spicetify-power-bar"
-
-[groupSessionSrc]
-src.git = "https://github.com/timll/spotify-group-session"
-fetch.git = "https://github.com/timll/spotify-group-session"
-
-[startPageSrc]
-src.git = "https://github.com/Resxt/startup-page"
-fetch.git = "https://github.com/Resxt/startup-page"
 
 [nameThatTuneSrc]
 src.git = "https://github.com/theRealPadster/name-that-tune"
