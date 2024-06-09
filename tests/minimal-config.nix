@@ -8,7 +8,6 @@
   spicePkgs = callPackage ../pkgs {};
 
   extensions = with spicePkgs.extensions; [
-    fullAppDisplay
     shuffle
     hidePodcasts
   ];
