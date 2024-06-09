@@ -6,37 +6,33 @@
 with source; let
   # EXTENSIONS ----------------------------------------------------------------
 
-  fullScreen = {
-    src = "${dakshExtensions}/Extensions/full-screen/dist";
-    filename = "fullScreen.js";
+  adblock = {
+    src = "${rxriSrc}/adblock";
+    filename = "adblock.js";
   };
-  volumePercentage = {
-    src = "${dakshExtensions}/Extensions";
-    filename = "volumePercentage.js";
-  };
-
-  hidePodcasts = {
-    src = hidePodcastsSrc;
-    filename = "hidePodcasts.js";
-  };
-
   copyToClipboard = {
     src = "${customAppsExtensionsSrc}/v2/copy-to-clipboard";
     filename = "copytoclipboard2.js";
+  };
+  fullAlbumDate = {
+    src = "${huhExtensionsSrc}/fullAlbumDate";
+    filename = "fullAlbumDate.js";
+  };
+  fullScreen = {
+    src = "${dakshExtensionsSrc}/Extensions/full-screen/dist";
+    filename = "fullScreen.js";
+  };
+  hidePodcasts = {
+    src = hidePodcastsSrc;
+    filename = "hidePodcasts.js";
   };
   showQueueDuration = {
     src = "${customAppsExtensionsSrc}/v2/show-queue-duration";
     filename = "showQueueDuration.js";
   };
-
-  fullAlbumDate = {
-    src = "${huhExtensionsSrc}/fullAlbumDate";
-    filename = "fullAlbumDate.js";
-  };
-
-  charliesAdblock = {
-    src = "${charlieS1103Src}/adblock";
-    filename = "adblock.js";
+  volumePercentage = {
+    src = "${dakshExtensionsSrc}/Extensions";
+    filename = "volumePercentage.js";
   };
   
   sanitizeName = lib.replaceStrings [".js" "+"] ["" ""];
@@ -81,10 +77,11 @@ in
     };
   }
   // mkExtAlias "copyToClipboard.js" copyToClipboard
-  // appendJS fullAlbumDate
-  // appendJS showQueueDuration
+
+  // appendJS adblock
   // appendJS copyToClipboard
-  // appendJS hidePodcasts
-  // appendJS charliesAdblock # adblock.js
+  // appendJS fullAlbumDate
   // appendJS fullScreen
+  // appendJS hidePodcasts
+  // appendJS showQueueDuration
   // appendJS volumePercentage

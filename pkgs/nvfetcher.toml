@@ -14,7 +14,7 @@ fetch.git = "https://github.com/spicetify/spicetify-cli"
 src.git = "https://github.com/Astromations/Hazy"
 fetch.git = "https://github.com/Astromations/Hazy"
 
-[dakshExtensions]
+[dakshExtensionsSrc]
 src.git = "https://github.com/daksh2k/Spicetify-stuff"
 fetch.git = "https://github.com/daksh2k/Spicetify-stuff"
 
@@ -22,28 +22,14 @@ fetch.git = "https://github.com/daksh2k/Spicetify-stuff"
 src.git = "https://github.com/theRealPadster/spicetify-hide-podcasts"
 fetch.git = "https://github.com/theRealPadster/spicetify-hide-podcasts"
 
-[localFilesSrc]
-src.git = "https://github.com/hroland/spicetify-show-local-files"
-fetch.git = "https://github.com/hroland/spicetify-show-local-files"
-
 [customAppsExtensionsSrc]
 src.git = "https://github.com/3raxton/spicetify-custom-apps-and-extensions"
 fetch.git = "https://github.com/3raxton/spicetify-custom-apps-and-extensions"
 
-[charlieS1103Src]
-src.git = "https://github.com/CharlieS1103/spicetify-extensions"
-fetch.git = "https://github.com/CharlieS1103/spicetify-extensions"
+[rxriSrc]
+src.git = "https://github.com/rxri/spicetify-extensions"
+fetch.git = "https://github.com/rxri/spicetify-extensions"
 
 [huhExtensionsSrc]
 src.git = "https://github.com/huhridge/huh-spicetify-extensions"
 fetch.git = "https://github.com/huhridge/huh-spicetify-extensions"
-
-[nameThatTuneSrc]
-src.git = "https://github.com/theRealPadster/name-that-tune"
-src.branch = "dist"
-fetch.git = "https://github.com/theRealPadster/name-that-tune"
-
-[marketplaceSrc]
-src.git = "https://github.com/spicetify/spicetify-marketplace"
-src.branch = "dist"
-fetch.git = "https://github.com/spicetify/spicetify-marketplace"
