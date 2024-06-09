@@ -9,10 +9,6 @@ fetch.git = "https://github.com/spicetify/spicetify-themes"
 [officialSrc]
 src.git = "https://github.com/spicetify/spicetify-cli"
 fetch.git = "https://github.com/spicetify/spicetify-cli"
-
-[catppuccinSrc]
-src.git = "https://github.com/catppuccin/spicetify"
-fetch.git = "https://github.com/catppuccin/spicetify"
  
 [orchisSrc]
 src.git = "https://github.com/canbeardig/Spicetify-Orchis-Colours-v2"

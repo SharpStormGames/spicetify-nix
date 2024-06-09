@@ -27,18 +27,6 @@ in {
         sidebarConfig = false;
       };
     };
-  in
-    {
-      catppuccin = {
-        name = "catppuccin";
-        src = catppuccinSrc;
-        appendName = true;
-        injectCss = true;
-        replaceColors = true;
-        overwriteAssets = true;
-        sidebarConfig = false;
-      };
-    };
   inherit
    Orchis
    ;
