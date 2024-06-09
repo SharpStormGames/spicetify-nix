@@ -1,23 +1,4 @@
 {
-    "autoVolumeSrc": {
-        "cargoLocks": null,
-        "date": "2020-02-16",
-        "extract": null,
-        "name": "autoVolumeSrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "d7f7962724b567a8409ef2898602f2c57abddf5a",
-            "sha256": "sha256-WquDmeaj+7M8DzGuHYOJgF6ifcs3vj3gIciZMaRQ3t4=",
-            "type": "git",
-            "url": "https://github.com/amanharwara/spicetify-autoVolume"
-        },
-        "version": "d7f7962724b567a8409ef2898602f2c57abddf5a"
-    },
     "charlieS1103Src": {
         "cargoLocks": null,
         "date": "2024-05-13",
@@ -75,25 +56,6 @@
         },
         "version": "e16e54e8463270e636ba4353170b222e10661600"
     },
-    "groupSessionSrc": {
-        "cargoLocks": null,
-        "date": "2023-11-29",
-        "extract": null,
-        "name": "groupSessionSrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "bc93e673d7efaa0294eca69321de33dc1dc8bdc3",
-            "sha256": "sha256-GY0V6UwKhbKONAE+vZgV6xx3BzUUvfjjeyH1yYzVl2g=",
-            "type": "git",
-            "url": "https://github.com/timll/spotify-group-session"
-        },
-        "version": "bc93e673d7efaa0294eca69321de33dc1dc8bdc3"
-    },
     "hazySrc": {
         "cargoLocks": null,
         "date": "2024-06-02",
@@ -132,25 +94,6 @@
         },
         "version": "4b4d39842088ca4717166a04e914b338ea5a8680"
     },
-    "historySrc": {
-        "cargoLocks": null,
-        "date": "2021-05-20",
-        "extract": null,
-        "name": "historySrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "577e34f364127f18d917d2fe2e8c8f2a1af9f6ae",
-            "sha256": "sha256-ORG1oNvMTJxrI3spfAuN+pCKTKvQfhqUIYT9NM1yZTs=",
-            "type": "git",
-            "url": "https://github.com/einzigartigerName/spicetify-history"
-        },
-        "version": "577e34f364127f18d917d2fe2e8c8f2a1af9f6ae"
-    },
     "huhExtensionsSrc": {
         "cargoLocks": null,
         "date": "2023-12-06",
@@ -169,25 +112,6 @@
             "url": "https://github.com/huhridge/huh-spicetify-extensions"
         },
         "version": "f032dde7cce9d441795d9e2f728531684e97e3fa"
-    },
-    "lastfmSrc": {
-        "cargoLocks": null,
-        "date": "2022-11-20",
-        "extract": null,
-        "name": "lastfmSrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "d2f1d3c1e286d789ddfa002f162405782d822c55",
-            "sha256": "sha256-/C4Y3zuSAEwhMXCRG2/4b5oWfGz/ij6wu0B+CpuJKXs=",
-            "type": "git",
-            "url": "https://github.com/LucasBares/spicetify-last-fm"
-        },
-        "version": "d2f1d3c1e286d789ddfa002f162405782d822c55"
     },
     "localFilesSrc": {
         "cargoLocks": null,
@@ -284,44 +208,6 @@
         },
         "version": "dfdd89ad84d5c68915c65e4a83580047349c49b4"
     },
-    "playlistIconsSrc": {
-        "cargoLocks": null,
-        "date": "2024-04-17",
-        "extract": null,
-        "name": "playlistIconsSrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "7a4bcbf1fc6b37ac37e16cacb9c9bcd0fe99636e",
-            "sha256": "sha256-N0MNpfoBLkH+8/UgYD1R7yIn1hpZ+tpm1hGp+VtASsU=",
-            "type": "git",
-            "url": "https://github.com/jeroentvb/spicetify-playlist-icons"
-        },
-        "version": "7a4bcbf1fc6b37ac37e16cacb9c9bcd0fe99636e"
-    },
-    "powerBarSrc": {
-        "cargoLocks": null,
-        "date": "2024-05-04",
-        "extract": null,
-        "name": "powerBarSrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "021ffb8839a6ef5959f306693288f2b96bd3b992",
-            "sha256": "sha256-fWxe1JWWfICA+wuTH+wok+xvYHS9+rG9s51LqeMEDAE=",
-            "type": "git",
-            "url": "https://github.com/jeroentvb/spicetify-power-bar"
-        },
-        "version": "021ffb8839a6ef5959f306693288f2b96bd3b992"
-    },
     "spotifywmSrc": {
         "cargoLocks": null,
         "date": "2022-10-25",
@@ -340,43 +226,5 @@
             "url": "https://github.com/dasJ/spotifywm"
         },
         "version": "8624f539549973c124ed18753881045968881745"
-    },
-    "startPageSrc": {
-        "cargoLocks": null,
-        "date": "2024-02-15",
-        "extract": null,
-        "name": "startPageSrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "75bd17ba1c9a19730f14529fb18857d7b9c7c12e",
-            "sha256": "sha256-+Th5o00c3Y8U+Y/RGmRSkWWp97YCoCJmoESFLZf9dwM=",
-            "type": "git",
-            "url": "https://github.com/Resxt/startup-page"
-        },
-        "version": "75bd17ba1c9a19730f14529fb18857d7b9c7c12e"
-    },
-    "tetraxSrc": {
-        "cargoLocks": null,
-        "date": "2023-07-22",
-        "extract": null,
-        "name": "tetraxSrc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "a224969550b3831c4fb084bcc8c675f3a77735d1",
-            "sha256": "sha256-XT0l6DVaXXaD7QihilpF3vQ+kry98sss3POR5gTRmhI=",
-            "type": "git",
-            "url": "https://github.com/Tetrax-10/Spicetify-Extensions"
-        },
-        "version": "a224969550b3831c4fb084bcc8c675f3a77735d1"
     }
 }
