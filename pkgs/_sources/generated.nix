@@ -66,6 +66,19 @@
     };
     date = "2023-11-29";
   };
+  hazySrc = {
+    pname = "hazySrc";
+    version = "0d45831a31b0c72e1d3ab8be501479e196a709d7";
+    src = fetchgit {
+      url = "https://github.com/Astromations/Hazy";
+      rev = "0d45831a31b0c72e1d3ab8be501479e196a709d7";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "sha256-0t7/25hRfvyJ8K+nTzgMl8RabTBxtMIjQvDECzYvwg8=";
+    };
+    date = "2024-06-02";
+  };
   hidePodcastsSrc = {
     pname = "hidePodcastsSrc";
     version = "4b4d39842088ca4717166a04e914b338ea5a8680";
@@ -182,19 +195,6 @@
       sha256 = "sha256-8IF2Y7xJtzk92rl4bfjiMXCISzUMaxXxOaMZkLS5mww=";
     };
     date = "2024-05-17";
-  };
-  orchisSrc = {
-    pname = "orchisSrc";
-    version = "5bf3fcf0696514dcf3e95f4ae3fd00261ccc5dcc";
-    src = fetchgit {
-      url = "https://github.com/canbeardig/Spicetify-Orchis-Colours-v2";
-      rev = "5bf3fcf0696514dcf3e95f4ae3fd00261ccc5dcc";
-      fetchSubmodules = false;
-      deepClone = false;
-      leaveDotGit = false;
-      sha256 = "sha256-9cU2Wlg5W57JpBfzIOXvpRYI8Q3CsH+UsdjQseTr9bs=";
-    };
-    date = "2022-05-20";
   };
   playlistIconsSrc = {
     pname = "playlistIconsSrc";
