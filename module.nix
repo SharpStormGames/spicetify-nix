@@ -187,13 +187,7 @@ in {
         )
       ]
       ++
-      # need montserrat for the BurntSienna theme
       (
-        optList
-        (actualTheme == spicePkgs.official.themes.BurntSienna)
-        [pkgs.montserrat]
-      )
-      ++ (
         optList
         (actualTheme == spicePkgs.themes.Orchis)
         [pkgs.fira]

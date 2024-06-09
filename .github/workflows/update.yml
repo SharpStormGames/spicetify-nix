@@ -19,7 +19,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Install nix
       uses: cachix/install-nix-action@v21
@@ -41,7 +41,7 @@ jobs:
 
     - name: Push updates
       if: ${{ success() }}
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: "Bump Spicetify Packages"
         file_pattern: "pkgs/_sources/"
