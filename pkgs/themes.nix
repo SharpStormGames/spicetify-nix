@@ -16,7 +16,7 @@ with source; let
     requiredExtensions = [
      {
       filename = "hazy.js";
-      src = "${hazytheme}";
+      src = "${hazySrc}";
      }
    ];
   };
