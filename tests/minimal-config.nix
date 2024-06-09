@@ -13,7 +13,7 @@
     hidePodcasts
   ];
 
-  theme = spicePkgs.themes.Orchis;
+  theme = spicePkgs.themes.Hazy;
 
   config-xpui = spiceLib.xpuiBuilder {
     inherit extensions theme;

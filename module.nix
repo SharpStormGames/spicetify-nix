@@ -185,13 +185,7 @@ in {
           then spicePkgs.spotifywm.override {spotify = spiced-spotify;}
           else spiced-spotify
         )
-      ]
-      ++
-      (
-        optList
-        (actualTheme == spicePkgs.themes.Orchis)
-        [pkgs.fira]
-      );
+      ];
     homeConfiguration = {
       home.packages = optList (!cfg.dontInstall) packagesToInstall;
     };

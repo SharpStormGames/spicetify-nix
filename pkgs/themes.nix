@@ -5,14 +5,20 @@
 }:
 with source; let
   # THEMES --------------------------------------------------------------------
- Orchis = {
-    name = "DarkGreen";
-    src = orchisSrc;
-    appendName = true;
+ Hazy = {
+    name = "Hazy";
+    src = hazySrc;
+    appendName = false;
     injectCss = true;
     replaceColors = true;
     overwriteAssets = false;
     sidebarConfig = false;
+    requiredExtensions = [
+     {
+      filename = "hazy.js";
+      src = "${hazytheme}";
+     }
+   ];
   };
 in {
   official = let
@@ -31,6 +37,6 @@ in {
     {
     };
   inherit
-   Orchis
+   Hazy
    ;
 }
