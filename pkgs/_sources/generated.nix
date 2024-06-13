@@ -10,6 +10,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
+      sparseCheckout = [ ];
       sha256 = "sha256-4zL/z8dCafy5V95ASR3c6TffMh9wdpnclAjddD9TX84=";
     };
     date = "2022-05-02";
@@ -23,6 +24,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
+      sparseCheckout = [ ];
       sha256 = "sha256-ksTCISkR7BADA8TWJCmmw7IupEC1q5RIijk9rzhXGN8=";
     };
     date = "2024-06-05";
@@ -36,6 +38,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
+      sparseCheckout = [ ];
       sha256 = "sha256-0t7/25hRfvyJ8K+nTzgMl8RabTBxtMIjQvDECzYvwg8=";
     };
     date = "2024-06-02";
@@ -49,6 +52,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
+      sparseCheckout = [ ];
       sha256 = "sha256-o62evqPjxKwJTpJsRM+9F1cuGLpIyy07tf5aO8KxNk8=";
     };
     date = "2024-05-01";
@@ -62,22 +66,24 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
+      sparseCheckout = [ ];
       sha256 = "sha256-fttZYeWqGNy4A9FqHe8znaWGePI2bBE92Ir4bp3i1wY=";
     };
     date = "2023-12-06";
   };
   officialSrc = {
     pname = "officialSrc";
-    version = "d674d778855bb8e38dec2ba23d5ddac6826f7d63";
+    version = "c1493ae64f5f0f83201fde6413019e864ff09425";
     src = fetchgit {
       url = "https://github.com/spicetify/spicetify-cli";
-      rev = "d674d778855bb8e38dec2ba23d5ddac6826f7d63";
+      rev = "c1493ae64f5f0f83201fde6413019e864ff09425";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-wAZ45RqxiAC6ELrBG4YB8yuksDQmqq+LPJfWhPqgRDI=";
+      sparseCheckout = [ ];
+      sha256 = "sha256-s+arCV5O8EaheJSlRCXxWqIwSPZ2SfRWKVFnYTgBYIQ=";
     };
-    date = "2024-06-08";
+    date = "2024-06-13";
   };
   officialThemes = {
     pname = "officialThemes";
@@ -88,6 +94,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
+      sparseCheckout = [ ];
       sha256 = "sha256-8IF2Y7xJtzk92rl4bfjiMXCISzUMaxXxOaMZkLS5mww=";
     };
     date = "2024-05-17";
@@ -101,6 +108,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
+      sparseCheckout = [ ];
       sha256 = "sha256-RUxlWXnqxg7NVL6nfPAT4TrQspEwGVPJNMoKPHJPsAw=";
     };
     date = "2024-06-07";
@@ -114,6 +122,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
+      sparseCheckout = [ ];
       sha256 = "sha256-AsXqcoqUXUFxTG+G+31lm45gjP6qGohEnUSUtKypew0=";
     };
     date = "2022-10-25";

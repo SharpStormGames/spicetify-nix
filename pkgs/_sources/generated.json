@@ -13,6 +13,7 @@
             "name": null,
             "rev": "0f5e79fe43abf57f714d7d00bd288870d5b6f718",
             "sha256": "sha256-4zL/z8dCafy5V95ASR3c6TffMh9wdpnclAjddD9TX84=",
+            "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/3raxton/spicetify-custom-apps-and-extensions"
         },
@@ -32,6 +33,7 @@
             "name": null,
             "rev": "e16e54e8463270e636ba4353170b222e10661600",
             "sha256": "sha256-ksTCISkR7BADA8TWJCmmw7IupEC1q5RIijk9rzhXGN8=",
+            "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/daksh2k/Spicetify-stuff"
         },
@@ -51,6 +53,7 @@
             "name": null,
             "rev": "0d45831a31b0c72e1d3ab8be501479e196a709d7",
             "sha256": "sha256-0t7/25hRfvyJ8K+nTzgMl8RabTBxtMIjQvDECzYvwg8=",
+            "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Astromations/Hazy"
         },
@@ -70,6 +73,7 @@
             "name": null,
             "rev": "4b4d39842088ca4717166a04e914b338ea5a8680",
             "sha256": "sha256-o62evqPjxKwJTpJsRM+9F1cuGLpIyy07tf5aO8KxNk8=",
+            "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/theRealPadster/spicetify-hide-podcasts"
         },
@@ -89,6 +93,7 @@
             "name": null,
             "rev": "f032dde7cce9d441795d9e2f728531684e97e3fa",
             "sha256": "sha256-fttZYeWqGNy4A9FqHe8znaWGePI2bBE92Ir4bp3i1wY=",
+            "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/huhridge/huh-spicetify-extensions"
         },
@@ -96,7 +101,7 @@
     },
     "officialSrc": {
         "cargoLocks": null,
-        "date": "2024-06-08",
+        "date": "2024-06-13",
         "extract": null,
         "name": "officialSrc",
         "passthru": null,
@@ -106,12 +111,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "d674d778855bb8e38dec2ba23d5ddac6826f7d63",
-            "sha256": "sha256-wAZ45RqxiAC6ELrBG4YB8yuksDQmqq+LPJfWhPqgRDI=",
+            "rev": "c1493ae64f5f0f83201fde6413019e864ff09425",
+            "sha256": "sha256-s+arCV5O8EaheJSlRCXxWqIwSPZ2SfRWKVFnYTgBYIQ=",
+            "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/spicetify/spicetify-cli"
         },
-        "version": "d674d778855bb8e38dec2ba23d5ddac6826f7d63"
+        "version": "c1493ae64f5f0f83201fde6413019e864ff09425"
     },
     "officialThemes": {
         "cargoLocks": null,
@@ -127,6 +133,7 @@
             "name": null,
             "rev": "dfdd89ad84d5c68915c65e4a83580047349c49b4",
             "sha256": "sha256-8IF2Y7xJtzk92rl4bfjiMXCISzUMaxXxOaMZkLS5mww=",
+            "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/spicetify/spicetify-themes"
         },
@@ -146,6 +153,7 @@
             "name": null,
             "rev": "5f369b36b5acdf4c62f7a10bad53659b6f2ab6c6",
             "sha256": "sha256-RUxlWXnqxg7NVL6nfPAT4TrQspEwGVPJNMoKPHJPsAw=",
+            "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/rxri/spicetify-extensions"
         },
@@ -165,6 +173,7 @@
             "name": null,
             "rev": "8624f539549973c124ed18753881045968881745",
             "sha256": "sha256-AsXqcoqUXUFxTG+G+31lm45gjP6qGohEnUSUtKypew0=",
+            "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/dasJ/spotifywm"
         },
