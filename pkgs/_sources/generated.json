@@ -141,7 +141,7 @@
     },
     "rxriSrc": {
         "cargoLocks": null,
-        "date": "2024-06-07",
+        "date": "2024-06-14",
         "extract": null,
         "name": "rxriSrc",
         "passthru": null,
@@ -151,13 +151,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "5f369b36b5acdf4c62f7a10bad53659b6f2ab6c6",
-            "sha256": "sha256-RUxlWXnqxg7NVL6nfPAT4TrQspEwGVPJNMoKPHJPsAw=",
+            "rev": "9168bc5d6c3b816ba404d91161fd577b3bf43e4a",
+            "sha256": "sha256-kPjmDVyxtXG1puedQKD6HRP6eN/MPdEZ9Zs4Ao4RVtg=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/rxri/spicetify-extensions"
         },
-        "version": "5f369b36b5acdf4c62f7a10bad53659b6f2ab6c6"
+        "version": "9168bc5d6c3b816ba404d91161fd577b3bf43e4a"
     },
     "spotifywmSrc": {
         "cargoLocks": null,
