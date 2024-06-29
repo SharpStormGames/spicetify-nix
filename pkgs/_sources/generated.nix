@@ -17,31 +17,31 @@
   };
   dakshExtensionsSrc = {
     pname = "dakshExtensionsSrc";
-    version = "e16e54e8463270e636ba4353170b222e10661600";
+    version = "f78c04e13fbbcae2db654dd69c314aa9101a7340";
     src = fetchgit {
       url = "https://github.com/daksh2k/Spicetify-stuff";
-      rev = "e16e54e8463270e636ba4353170b222e10661600";
+      rev = "f78c04e13fbbcae2db654dd69c314aa9101a7340";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-ksTCISkR7BADA8TWJCmmw7IupEC1q5RIijk9rzhXGN8=";
+      sha256 = "sha256-O7Y3Ac5rU9DaNJlZsyRbdJfjwBE5tjpzOeQotfLg9zk=";
     };
-    date = "2024-06-05";
+    date = "2024-06-29";
   };
   hazySrc = {
     pname = "hazySrc";
-    version = "25e472cc4563918d794190e72cba6af8397d3a78";
+    version = "b64417454bf7a9c8657992af1b5705627f532d4a";
     src = fetchgit {
       url = "https://github.com/Astromations/Hazy";
-      rev = "25e472cc4563918d794190e72cba6af8397d3a78";
+      rev = "b64417454bf7a9c8657992af1b5705627f532d4a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-zK17CWwYJNSyo5pbYdIDUMKyeqKkFbtghFoK9JBR/C8=";
+      sha256 = "sha256-TgsQIzM5lHORFyQ19/ihmGqjY0I0pl/bGxWffC/CIns=";
     };
-    date = "2024-06-22";
+    date = "2024-06-28";
   };
   hidePodcastsSrc = {
     pname = "hidePodcastsSrc";
@@ -73,17 +73,17 @@
   };
   officialSrc = {
     pname = "officialSrc";
-    version = "ef9f72d648c37fb7cb54a85a8e78492b896d5f42";
+    version = "abe53f6058585ddd041380f2728d0ec9b2f54b57";
     src = fetchgit {
       url = "https://github.com/spicetify/spicetify-cli";
-      rev = "ef9f72d648c37fb7cb54a85a8e78492b896d5f42";
+      rev = "abe53f6058585ddd041380f2728d0ec9b2f54b57";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-kbJiu8fdFiQ0d8083YJVYbMoqKyS/KXmfO3HffbsN18=";
+      sha256 = "sha256-HAgW+0wzOu3FGc4jlYRjC5USpE8Iv6FKh41rcv4gqTo=";
     };
-    date = "2024-06-22";
+    date = "2024-06-29";
   };
   officialThemes = {
     pname = "officialThemes";
