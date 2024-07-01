@@ -41,7 +41,7 @@
     },
     "hazySrc": {
         "cargoLocks": null,
-        "date": "2024-06-28",
+        "date": "2024-06-30",
         "extract": null,
         "name": "hazySrc",
         "passthru": null,
@@ -51,13 +51,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "b64417454bf7a9c8657992af1b5705627f532d4a",
-            "sha256": "sha256-TgsQIzM5lHORFyQ19/ihmGqjY0I0pl/bGxWffC/CIns=",
+            "rev": "0f10b520d94ad84b2d0f6fbee31277ce3212ff4e",
+            "sha256": "sha256-DpBRfNDMryCmpqJC2PW43XOXrw0wQhcsIocCNRZWM0Q=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Astromations/Hazy"
         },
-        "version": "b64417454bf7a9c8657992af1b5705627f532d4a"
+        "version": "0f10b520d94ad84b2d0f6fbee31277ce3212ff4e"
     },
     "hidePodcastsSrc": {
         "cargoLocks": null,

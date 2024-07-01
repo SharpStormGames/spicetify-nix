@@ -31,17 +31,17 @@
   };
   hazySrc = {
     pname = "hazySrc";
-    version = "b64417454bf7a9c8657992af1b5705627f532d4a";
+    version = "0f10b520d94ad84b2d0f6fbee31277ce3212ff4e";
     src = fetchgit {
       url = "https://github.com/Astromations/Hazy";
-      rev = "b64417454bf7a9c8657992af1b5705627f532d4a";
+      rev = "0f10b520d94ad84b2d0f6fbee31277ce3212ff4e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-TgsQIzM5lHORFyQ19/ihmGqjY0I0pl/bGxWffC/CIns=";
+      sha256 = "sha256-DpBRfNDMryCmpqJC2PW43XOXrw0wQhcsIocCNRZWM0Q=";
     };
-    date = "2024-06-28";
+    date = "2024-06-30";
   };
   hidePodcastsSrc = {
     pname = "hidePodcastsSrc";
