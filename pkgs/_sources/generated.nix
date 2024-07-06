@@ -45,17 +45,17 @@
   };
   hidePodcastsSrc = {
     pname = "hidePodcastsSrc";
-    version = "0e6d7ddf94584024234ffa982de1791f655a0851";
+    version = "30b164971c3d49ac456040269a2263e843ad1f7d";
     src = fetchgit {
       url = "https://github.com/theRealPadster/spicetify-hide-podcasts";
-      rev = "0e6d7ddf94584024234ffa982de1791f655a0851";
+      rev = "30b164971c3d49ac456040269a2263e843ad1f7d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-LbW4oCxPgeRcZey/c8iu7j1B7tF91KfiMJh9aTwLT+w=";
+      sha256 = "sha256-N8hBKMEQwz77dnAKKvTP20tW+D8P+K5l19SDkz8CGYg=";
     };
-    date = "2024-07-05";
+    date = "2024-07-06";
   };
   huhExtensionsSrc = {
     pname = "huhExtensionsSrc";
@@ -101,17 +101,17 @@
   };
   rxriSrc = {
     pname = "rxriSrc";
-    version = "9168bc5d6c3b816ba404d91161fd577b3bf43e4a";
+    version = "4c692375d2fc0909b7b068466cedd24ec59408cb";
     src = fetchgit {
       url = "https://github.com/rxri/spicetify-extensions";
-      rev = "9168bc5d6c3b816ba404d91161fd577b3bf43e4a";
+      rev = "4c692375d2fc0909b7b068466cedd24ec59408cb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-kPjmDVyxtXG1puedQKD6HRP6eN/MPdEZ9Zs4Ao4RVtg=";
+      sha256 = "sha256-/23lKBXL+SBjVhkQnsboxpZ1KpunjEeUbqbhrBQ9RgU=";
     };
-    date = "2024-06-14";
+    date = "2024-07-06";
   };
   spotifywmSrc = {
     pname = "spotifywmSrc";
