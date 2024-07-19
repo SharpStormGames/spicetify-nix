@@ -101,17 +101,17 @@
   };
   rxriSrc = {
     pname = "rxriSrc";
-    version = "4c692375d2fc0909b7b068466cedd24ec59408cb";
+    version = "e287557c119f7962383ca4c41caadd7329211a55";
     src = fetchgit {
       url = "https://github.com/rxri/spicetify-extensions";
-      rev = "4c692375d2fc0909b7b068466cedd24ec59408cb";
+      rev = "e287557c119f7962383ca4c41caadd7329211a55";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-/23lKBXL+SBjVhkQnsboxpZ1KpunjEeUbqbhrBQ9RgU=";
+      sha256 = "sha256-G1BnYfUVBChIZQRpnOm6befMw0q/q7oyvsawDKoL4Pw=";
     };
-    date = "2024-07-06";
+    date = "2024-07-18";
   };
   spotifywmSrc = {
     pname = "spotifywmSrc";
