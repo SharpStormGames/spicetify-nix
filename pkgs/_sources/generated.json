@@ -21,7 +21,7 @@
     },
     "dakshExtensionsSrc": {
         "cargoLocks": null,
-        "date": "2024-07-17",
+        "date": "2024-07-21",
         "extract": null,
         "name": "dakshExtensionsSrc",
         "passthru": null,
@@ -31,17 +31,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "9569dff5d7b39a89bca7684f1bc8b1e7cb3c0490",
-            "sha256": "sha256-fGn5mBjYDSKjGU86WibdEdbD0b1rRghB40WOVysp9PQ=",
+            "rev": "232b892f2ba415152dff8060f83ecc2f704a3371",
+            "sha256": "sha256-J0VytMVP+leLmHyC5Ws+k0Ed3jZHcm0RVeZ95kaFy70=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/daksh2k/Spicetify-stuff"
         },
-        "version": "9569dff5d7b39a89bca7684f1bc8b1e7cb3c0490"
+        "version": "232b892f2ba415152dff8060f83ecc2f704a3371"
     },
     "hazySrc": {
         "cargoLocks": null,
-        "date": "2024-06-30",
+        "date": "2024-07-20",
         "extract": null,
         "name": "hazySrc",
         "passthru": null,
@@ -51,13 +51,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "0f10b520d94ad84b2d0f6fbee31277ce3212ff4e",
-            "sha256": "sha256-DpBRfNDMryCmpqJC2PW43XOXrw0wQhcsIocCNRZWM0Q=",
+            "rev": "3a1fa2fdbf685bf74c510a98c1f2d415929aa3da",
+            "sha256": "sha256-jYLtpd53u5lROxlaDfbyqO0rZvrTMQ2An4MC3wj9FkA=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Astromations/Hazy"
         },
-        "version": "0f10b520d94ad84b2d0f6fbee31277ce3212ff4e"
+        "version": "3a1fa2fdbf685bf74c510a98c1f2d415929aa3da"
     },
     "hidePodcastsSrc": {
         "cargoLocks": null,
